@@ -20,5 +20,5 @@ rm -rf sublime-config
   
 - **安装 Package Control**  
 
-安装插件包的时候容易被墙，最好打开VPN。  
+安装插件包的时候容易被墙，最好打开VPN。  
 到 https://packagecontrol.io/installation 复制至控制台(Ctrl + \` )，这样所有插件包会自动安装。
