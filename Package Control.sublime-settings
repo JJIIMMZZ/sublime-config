@@ -6,8 +6,10 @@
 	"installed_packages":
 	[
 		"Emmet",
+		"HTML-CSS-JS Prettify",
 		"IMESupport",
 		"Package Control",
-		"HTML-CSS-JS Prettify"
+		"Theme - Afterglow",
+		"Vue Syntax Highlight"
 	]
 }
